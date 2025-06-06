@@ -28,7 +28,9 @@ Kashu is a project designed to run python kwic programs on the web.
 
 - Python files for backend logic
 - Web interface to interact with Python code
-
+- python package nltk does not work. We use simple pattern match for getting POSTag (For Blue Tasks, We used nltk but with web, It does not work.)
 ## Requirements
 
 See [requirements.txt](requirements.txt) for required Python packages.
+
+
